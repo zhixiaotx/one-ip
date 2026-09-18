@@ -42,7 +42,7 @@ IP 查询、网络诊断、浏览器检测与 AI 服务状态工具箱。
 Workers Builds 会在 `main` 收到提交时构建和部署。上方按钮使用原项目地址；需要保留 Fork 关系和更新工作流时，请按教程导入你的 Fork。
 
 
-新增----部署教程：
+## 新增----部署教程：
 1.Fork 本项目到你的 GitHub 账号。
 2.登录 Cloudflare 控制台，进入 Workers & Pages，创建 Pages，选择导入 Git 仓库。
 3.连接 GitHub，选择你的 one-ip Fork，生产分支填 main。
