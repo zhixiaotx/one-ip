@@ -43,11 +43,11 @@ Workers Builds 会在 `main` 收到提交时构建和部署。上方按钮使用
 
 
 ## 新增----部署教程：
-1.Fork 本项目到你的 GitHub 账号。
-2.登录 Cloudflare 控制台，进入 Workers & Pages，创建 Pages，选择导入 Git 仓库。
-3.连接 GitHub，选择你的 one-ip Fork，生产分支填 main。
-4.构建命令填 pnpm build，根目录保持默认。
-5.点击部署，完成后打开 workers.dev 地址。自定义域名在 Worker 设置中绑定。
+1. Fork 本项目到你的 GitHub 账号。
+2. 登录 Cloudflare 控制台，进入 Workers & Pages，创建 Pages，选择导入 Git 仓库。
+3. 连接 GitHub，选择你的 one-ip Fork，生产分支填 main。
+4. 构建命令填 pnpm build，根目录保持默认。
+5. 点击部署，完成后打开 workers.dev 地址。自定义域名在 Worker 设置中绑定。
 
 
 
